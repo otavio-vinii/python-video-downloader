@@ -30,7 +30,7 @@ Um script poderoso e simples para baixar vídeos do YouTube (e outros sites) na 
 1. **Clone este repositório (ou crie a pasta):**
    ```bash
    # Se estiver usando Git
-   git clone <link-do-seu-repositorio>
+   git clone https://github.com/otavio-vinii/python-video-downloader
    ```
 
 2. **Crie e ative seu ambiente virtual:**
@@ -69,4 +69,4 @@ O vídeo será salvo automaticamente na pasta `downloads/` com a melhor qualidad
 
 ## 👤 Autor
 
-Desenvolvido por **[Thaiz](https://github.com/otavio-vinii)** (Baseado no template de Otávio Vinícius).
+Desenvolvido por **[Otávio Vinícius](https://github.com/otavio-vinii)**

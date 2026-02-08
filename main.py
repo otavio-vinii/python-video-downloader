@@ -1,4 +1,3 @@
-# main.py
 import yt_dlp
 import os
 
