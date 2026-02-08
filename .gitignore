@@ -1,0 +1,9 @@
+venv/
+downloads/
+__pycache__/
+*.pyc
+.env
+.gemini/
+.agent/
+.system_generated/
+[Dd]ownload[se].py
